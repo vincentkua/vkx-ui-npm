@@ -16,6 +16,7 @@ const Container = ({ children }: Childprops) => {
       max-width: 100%;
     }
   `;
+  
 
   return (
     <>
